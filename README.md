@@ -1,6 +1,6 @@
 # 🧑🏻‍💻**Patrón de Comportamiento: Pipeline (Tubería) en Spring Boot**
 
-Este repositorio demuestra la aplicación práctica de la Programación Orientada a Objetos (POO) en Java a través de cuatro mini-proyectos. Cada uno se enfoca en un concepto clave, presentando su implementación y código correspondiente para facilitar el aprendizaje.
+Este proyecto es un ejemplo práctico y sencillo del Patrón de Comportamiento Pipeline (Tubería), implementado en una aplicación Spring Boot. El objetivo es demostrar cómo se pueden encadenar una serie de operaciones modulares y desacopladas para procesar un flujo de datos.
 
 ## 🧩**Concepto del Patrón Pipeline**
 

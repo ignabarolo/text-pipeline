@@ -1,0 +1,43 @@
+# Archivo de ayuda - Si es útil para el proyecto, NO lo ignores.
+# Si es un archivo temporal, entonces sí. Por lo general, se trackea.
+# HELP.md
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar # Mantener el jar del wrapper
+
+# Archivos de log
+*.log
+logs/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache
+bin/ # Directorio de salida de compilación
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+out/ # Directorio de salida de compilación
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db

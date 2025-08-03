@@ -108,7 +108,7 @@ Nuestro pipeline de procesamiento de texto consta de los siguientes pasos (filtr
 2.  Construir y Ejecutar la Aplicación:
 Asegúrate de tener Java 17+ instalado. El proyecto usa Gradle Wrapper, por lo que no necesitas una instalación global de Gradle.
 
-**Bash**
+    **Bash**
 
         ./gradlew bootRun  # En Linux/macOS
         gradlew.bat bootRun # En Windows
